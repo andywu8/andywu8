@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A passionate fullstack software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andywu8&label=Profile%20views&color=0e75b6&style=flat" alt="andywu8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andywu8" alt="andywu8" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [andy-wu.tech](andy-wu.tech)
 
 <h3 align="left">Connect with me:</h3>
