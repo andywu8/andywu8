@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A passionate fullstack software developer</h3>
+<h3 align="center">A passionate fullstack software developer. Currently a SWE at Treet building out the future of resale!</h3>
 
 - 👨‍💻 All of my projects are available at [andy-wu.tech](andy-wu.tech)
 
