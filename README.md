@@ -13,4 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andywu8&show_icons=true&locale=en" alt="andywu8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andywu8&" alt="andywu8" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=andywu8" alt="andywu8" /></p>
